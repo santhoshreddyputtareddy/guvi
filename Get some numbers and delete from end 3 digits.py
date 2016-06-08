@@ -1,0 +1,6 @@
+a=list(input(""))
+print(a)
+e=len(a)
+a.sort()
+print(a)
+print (a[:-3])
